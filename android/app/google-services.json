@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548610055179",
+    "firebase_url": "https://thoughts-fb2eb.firebaseio.com",
+    "project_id": "thoughts-fb2eb",
+    "storage_bucket": "thoughts-fb2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548610055179:android:185292050b7126dd7c7b0e",
+        "android_client_info": {
+          "package_name": "com.bandhoo.ekstatic.thoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548610055179-evgds90tvtj45sm4lcehlm4dsetuo68v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bandhoo.ekstatic.thoughts",
+            "certificate_hash": "0aea921e08248b9d26be4a7694f9361a7b225a1d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YODv3L3vspL7BcyXAaBNBtAIWR1Fn8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
